@@ -173,3 +173,85 @@ Non
 
 ### 5
 Non
+
+## P-029
+### 1
+\- Je cherche un restaurant, sur une petite place avec une église, une fontaine et des arbres...
+
+\- C'est le restaurant français?
+
+\- Non, c'est un restaurant grec
+
+\- Ah oui, je vois: c'est le restaurant "Adonis", sur la place Abèlard!
+
+\- C'est loin?
+
+\- Non, c'est là: juste derrière des arbres, à côté de l'église!
+
+### 2
+1. J'ai acheté une lampe. J'ai mis la lampe sur la tablea
+1. J'ai acheté une couverture. J'ai mis la couverture sur el lit (*frazada*)
+1. J'ai acheté un tapis. J'ai mis le tapis sur le sol (*alfombra*)
+1. J'ai acheté des plantes vertes. J'ai mis les plantes vertes sur le balcon
+1. J'ai acheté des livres. J'ai mis les livres sur l'étagère
+
+### 3
+1. La pyramide du Louvre est une grande pyramide de verre
+1. Pour le gouvernement, la chômage est le problème numéro un
+1. Selon moi, le téléphone est une invention diabolique!
+1. À Paris, le stationnement est un problème permanent
+1. J'aime les fruits et les légumes, et je déteste le fromage et le poisson
+1. Quelle est l'hauteur de la tour Eiffel? Qui est l'auteur des "Noces de Figaro"? *hauteur: altura; auteur: autor*
+1. Chaque fois que je vais à Paris, j'achète un tour Eiffel pour mon neveu
+
+### 4
+Je regarde un film à la télévision. Un homme et un femme entrent dans un café. L'homme est barbu, la femme est très jeune et elle porte un bébé dans les bras. Au fond du cafe une autre femme lit un journal étranger. Sur une photo, dans le journal, on voit l'homme, la femme et le bébé qui viennent d'entrer...
+
+### 5
+1. Véhicule privé à moteur: une voiture
+1. Monument parisien en fer: la tour Eiffel
+1. Tourne autour de la terre: la lune *gira alrededor de la tierra:*
+1. Brille pour tous: le soleil
+1. Circule sous terre: un souterrain
+1. Individu né en France: un français
+1. Égale 60 secondes: un minute
+1. Égale 7 jours: une semaine
+1. Langue parlée en France: le français
+
+## P-031
+### 1
+1. Pour prendrele train, je vais à la garage
+1. Pour prendre le bateau, je vais au port
+1. Pour prendre le bus, je vais à la station de bus
+1. Pour prendre l'avion, je vais à l'aéroport
+
+### 2
+1. 12h: C'est l'heure du déjeuner
+1. 15h: C'est l'heure du dîner
+1. 19h: C'est l'heure de l'apéritif
+1. 20h: C'est l'heure de la sieste
+
+### 3
+Je suis au restaurant, prés le bureau. Je mange une quiche du fromage et un gâteau du chocolat. La pâte du quiche est très légère, mais le goût du fromage est un peu fort. Le gâteau du chocolat et des amandes est une merveille: c'est une spécialité du chef. *prés: cerca; quiche: tarta proveniente de Francia; goût: gusto*
+
+### 4
+\- La mode, l'informatique, le sport, le cinéma, les voyages, les sciences: qu'est-ce qui vous intéresse?
+
+\- Je m'intéresse sortout l'informatique, le cinéma et les sciences.
+
+\- Alors, pour tout savoir sur le monde de l'informatique, le cinéma et les sciences (et sur le reste): lisez "Global"!
+
+\- C'est nouveau? Et ça coûte combien? *Y eso cuánto cuesta?*
+
+\- Un euro: c'est le prix du papier!
+
+### 5
+L'appartement de Chloé est vraiment un appartement extraordinaire: l'éclairage *iluminación* des couloir *pasillos o corredores* est vert fluorescent. Au milieu du salon, il y a un petit lac. l'eau du lac est chaude en hiver et froide *fría* en été. Le plafond de la salle de bains est ouvert sur les étoiles *estrellas*. Les placards de la cuisine sont transparents. Le lit des fils de Chloé est un hamac pendu aurx brances de un arbre. L'hamac est jaune *amarillo* d'or, l'arbre est un palmier véritable. Tout est parfait à mon avis, sauf la couleur beige de la moquette! *alfombra*
+
+### 6
+1. Une pizza au champognons
+1. Un sandwich du bœuf
+1. Un gâteau du chocolat
+1. Une glace de les fraises
+1. Une tarte du thon
+1. Des pâtes du poulet
