@@ -8,3 +8,9 @@
 1. C'est écrit en russe
 1. C'est écrit en arabe
 1. C'est écrit en chinois
+
+### 2
+1. C'est un diplomate italien
+1. C'est un diplomate allemand
+1. C'est un diplomate chinois
+1. C'est un diplomate espagnol

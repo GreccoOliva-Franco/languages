@@ -105,3 +105,25 @@
 </table>
 
 ### 12
+1. Audio - 03.mp3
+1. À voix haute
+1. 
+- Olga
+- Ivan
+- Clara
+- Nenad
+
+### Point Langue
+S'appeler
+1. Je m'appelle Michal
+1. Tu t'appelles Yoko?
+1. Il s'appelle Mathias Lorenz
+1. Elle s'appelle Pierrette
+1. Vous vous appelez Sofia
+
+Être
+1. Je suis autrichien-tunisienne
+1. Tu es grec?
+1. Il est allemand
+1. Elle est française
+1. Vous êtes russe?
