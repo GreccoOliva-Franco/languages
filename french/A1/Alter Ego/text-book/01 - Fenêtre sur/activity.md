@@ -184,3 +184,71 @@ E.
 |huit|dix-huit|vingt-huit|trente-huit|quarante-huit|cinquante-huit|soixante-huit|
 |neuf|dix-neuf|vingt-neuf|trente-neuf|quarante-neuf|cinquante-neuf|soixante-neuf|
 
+### 16 *(audio)*
+1. Italie: 16
+1. Brazil: 9
+1. Allemagne: 14
+1. Espagna: 5
+1. États-Unis: 7
+1. Inde:13
+1. Mexique 28
+1. Chine: 12
+
+## S'exercer
+### 1
+|Nationalité||
+|-|-|
+|français|française|
+|camerounais|camerounaise|
+|suédois|suédoise|
+|américain|américaine|
+|chinois|chinoise|
+|canadien|canadienne|
+|espagnol|espagnole|
+|portugais|portugaise|
+|australien|australienne|
+|mexicain|mexicaine|
+|allemand|allemande|
+|grec|greque|
+|tunisien|tunisienne|
+|russe|russe|
+
+### 2
+1. Je m'appelle Antonie
+1. Tu t'appelles Sophie
+1. Il s'appelle Antoine
+1. Il est français
+1. Elle est anglaise
+1. Vous êtes américaine
+1. Je suis chinois
+
+## Communiquer en classe
+### 1 *(audio random 02)*
+Ils sont des communications dans une classe
+
+### 2
+1. Professeur: Écoutez le dialogue
+1. Étudiant: Vous pouvez répéter, s'il vous plaît?
+1. Professeur: Regardez la photo
+1. Professeur ou étudiant: Quelle est la différence entre *tu* et *vous*?
+1. Professeur: Écrivez le réponse
+1. Professeur: Répétez la phrase
+1. Professeur: Cochez la bonne réponse
+1. Professeur: Soulignez les questions
+1. Étudiant: Comment ça se prononce?
+1. Étudiant: Parlez plus fort!
+1. Professeur: Ouvrez le livre
+1. Étudiant: Comment on dit *house* en français?
+1. Professeur: Fermez votre livre
+1. Professeur ou étudiant: Comment çca s'écrit?
+1. Professeur: Travaillez en groupe
+1. Professeur. Travaillez par deux
+1. Étudiant: Je ne comprends pas
+1. Étudiant: Je ne sais pas
+1. Étudiant: C'est à quelle page?
+
+### 3
+1. Écrivre: 5, 7, 8, 14.
+1. Ecouter: 1, 2, 6.
+1. Liser: 3, 9, 11, 13, 19.
+1. *Non used*: 4, 10, 12, 15, 16, 17, 18.
