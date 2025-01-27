@@ -209,7 +209,7 @@ E.
 |australien|australienne|
 |mexicain|mexicaine|
 |allemand|allemande|
-|grec|greque|
+|grec|grecque|
 |tunisien|tunisienne|
 |russe|russe|
 
