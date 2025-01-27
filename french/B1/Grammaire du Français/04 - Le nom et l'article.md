@@ -5,7 +5,7 @@
 ### 1
 1. Un homme seul et une étudiante seule
 1. Un homme élancé et une femme élancée
-1. Un chanteur grec et une chantrice grecque
+1. Un chanteur grec et une chanteuse grecque
 1. Un garçon sportif et une fille sportive
 1. Un joli garçon et une jolie fille
 1. Un chat roux et une chatte rousse
@@ -29,16 +29,16 @@
 Êtes vous
 1. un étudiant bavard // une étudiante bavarde
 1. un grand lecteur // une grande lectrice
-1. un séducteur discret // une séductrice dicrete
-1. un conducteur agressif // une condutrice agressive
+1. un séducteur discret // une séductrice discrète
+1. un conducteur agressif // une conductrice agressive
 1. un consommateur compulsif // une consommatrice compulsive
-1. un écologist actif // une écologiste active
-1. un amouroux jaloux // une amourouse jalouse
+1. un écologiste actif // une écologiste active
+1. un amoureux jaloux // une amoureuse jalouse
 1. un utilisateur d'internet // une utilisatrice d'internet
 1. -- 
-1. un électeur fidel // une électrice fidele
+1. un électeur fidèle // une électrice fidèle
 1. un spectateur exigeant // une spectatrice exigeante
-1. un menteur ocassional // une menteuse occasionale
+1. un menteur occasionnel // une menteuse occasionnelle
 
 ## P-025
 
