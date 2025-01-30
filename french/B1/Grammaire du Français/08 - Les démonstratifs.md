@@ -4,32 +4,32 @@
 ### 1
 1. Ce problème est complexe. (masculin)
 1. Ces poires sont trop mûres. (feminin)
-1. Ce acteur est insupportable. (masculin)
+1. Cet acteur est insupportable. (masculin)
 1. Ces bijoux sont très beaux. (feminin)
-1. Cette historie est terrible! (feminin)
+1. Cette histoire est terrible! (feminin)
 1. Cet homme est dangereux. (masculin)
 1. Cet alcool est trop fort. (masculin)
 
 ### 2
 - Regarde ce paysage: ce ciel, cette mer, ces palmiers, ces fleurs!
-- C'est magnifique! Mais cet horrible, là-bas, qu'est-ce que c'est?
+- C'est magnifique! Mais cet animal horrible, là-bas, qu'est-ce que c'est?
 - C'est un iguane. Il est magnifique!
 - Regarde cet oiseau vert et bleu!
-- Et sens cet odeur de jasmin...
+- Et sens cette odeur de jasmin...
 
 ### 3
-1. J'adore cette maison, mais j'aime bien aussi cette, à droite, la bleue.
+1. J'adore cette maison, mais j'aime bien aussi celle, à droite, la bleue.
 1. N'achète pas ce vin, il est trop fort. Achète celui-ci, il est meilleur.
 1. Ne prenez pas cette chaise. Prenez celle-ci, elle est plus confortable.
-1. Faites tirer ces photos, mais pas celles. Elles sont floues.
-1. Ne mets pas cette robe, je préfère cette. (?: está bien o debería ser cette-la o bien cette-ci)
+1. Faites tirer ces photos, mais pas celles-là. Elles sont floues. *borrosas*
+1. Ne mets pas cette robe, je préfère celle-là
 
 ### 4 (?)
 1. Ce vélo est à vous? Non, ce n'est pas le mien. C'est celui de mon voisin
-1. Cette voiture est à vous? Non, cette n'est pas la mienne. C'est celle de mon mari
-1. Ces clés sont à vous? Non, ces ne sont pas les miens. Celles sont ceux de mes enfants
-1. Cet anorak est à vous? Non, ce n'est pas le mien. C'est ceux de mes fils
-1. Ces gants sont à vous? Non, ces ne sont pas les miens. Ceux sont ceux de mon ami
+1. Cette voiture est à vous? Non, ce n'est pas la mienne. C'est celle de mon mari
+1. Ces clés sont à vous? Non, ce ne sont pas les miennes. Ce sont celles de mes enfants
+1. Cet anorak est à vous? Non, ce n'est pas le mien. C'est celui de mes fils
+1. Ces gants sont à vous? Non, ce ne sont pas les miens. Ce sont ceux de mon ami
 
 ### 5
 1. Vous partez la semaine prochaine? Non, je parte cette semaine
