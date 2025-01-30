@@ -13,15 +13,15 @@
 
 ### 2
 1. C'est un livre de grammaire. Je crois que c'est le livre du professeur
-1. C'est une casquette rouge. Je crois que c'est la casquette du petit garçon
-1. Ce sont des rollers. Je crois que ce sont des roller de un étudiant
-1. C'est un jeux vidéo. Je crois que c'est un jeux des enfants
+1. C'est une casquette rouge. Je crois que elle est du petit garçon *gorra*
+1. Ce sont des rollers. Je crois que ils sont de un étudiant
+1. C'est un jeux vidéo. Je crois que il est des enfants
 
 ### 3 (?)
 1. Qui est-ce? C'est ma grand-mère
-1. Qu'est'ce que c'est? C'est un élephant, c'est une sculpture de Calder
-1. Qui c'est? C'est ma cousine Juliette
-1. Qui c'est? C'est moi à 20 ans...
+1. Qu-est'ce que c'est? C'est un élephant, c'est une sculpture de Calder
+1. Qui est-ce? C'est ma cousine Juliette
+1. Qui est-ce? C'est moi à 20 ans...
 1. Qu'est-ce que c'est? C'est un ticket de train, c'est un souvenir!
 1. Qu'est-ce que c'est? Ce sont des copains: Yorgos et Elena
 1. Qu'est-ce que c'est? C'est un coquillage
