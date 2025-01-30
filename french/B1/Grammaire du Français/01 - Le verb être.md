@@ -4,55 +4,42 @@
 
 ### 1
 1. 
-\- Vous êtes d'où?
-
-\- Je suis anglais. Je suis de Londres. Et vous, vous êtes d'où?
-
-\- Je suis d'Athènes, je suis grec.
+- Vous êtes d'où?
+- Je suis anglais. Je suis de Londres. Et vous, vous êtes d'où?
+- Je suis d'Athènes, je suis grec.
 
 2. 
-\- Vous êtes marié?
-
-\- Non, je suis célibataire. Et vous, vous êtes marié?
-
-\- Oui, je suis marié.
+- Vous êtes marié?
+- Non, je suis célibataire. Et vous, vous êtes marié?
+- Oui, je suis marié.
 
 ### 2
 1. 
-\- Vous êtes espagnol ou portugais, Luis?
-
-\- Je suis espagnol.
+- Vous êtes espagnol ou portugais, Luis?
+- Je suis espagnol.
 
 2. 
-\- Vous êtes de Madrid ou de Barcelone?
-
-\- Je suis de Barcelone.
+- Vous êtes de Madrid ou de Barcelone?
+- Je suis de Barcelone.
 
 3. 
-\- Vous êtes étudiant ou professeur?
-
-\- Je suis professeur
+- Vous êtes étudiant ou professeur?
+- Je suis professeur
 
 4. 
-\- Vous êtes marié ou célibataire?
-
-\- Je suis célibataire.
+- Vous êtes marié ou célibataire?
+- Je suis célibataire.
 
 5. 
-\- Vous êtes fatigué ou en forme?
-
-\- Je suis fatigué.
+- Vous êtes fatigué ou en forme?
+- Je suis fatigué.
 
 ### 3
-Paul: \- Je suis en vacances à Nice. Et vous, vous ètes à Nice per travailler?
-
-Aldo: \- Non, je suis en vacances chez ma tante. Vous êtes à l'hôtel ou chez des amis?
-
-Paul: \- Je suis chez un ami d'enfance, Philippe Leroux. Vous êtes de quelle ville, Aldo?
-
-Aldo: \- Je suis de Naples, amis je suis souvent à Rome pour mon travail.
-
-Paul: \- Moi, je suis de Lyon, mais je suis très souvent à Paris pour mes affaires.
+- Je suis en vacances à Nice. Et vous, vous ètes à Nice per travailler?
+- Non, je suis en vacances chez ma tante. Vous êtes à l'hôtel ou chez des amis?
+- Je suis chez un ami d'enfance, Philippe Leroux. Vous êtes de quelle ville, Aldo?
+- Je suis de Naples, amis je suis souvent à Rome pour mon travail.
+- Moi, je suis de Lyon, mais je suis très souvent à Paris pour mes affaires.
 
 ### 4
 1. Je m'appelle Per. Je suis danois. Je suis de Copenhague. Actuellement, je suis a l'hôtel Bréa, à Paris.
@@ -62,37 +49,29 @@ Paul: \- Moi, je suis de Lyon, mais je suis très souvent à Paris pour mes affa
 
 ### 5
 1. 
-\- Vous êtes de Boston? De Varsovie? D'Athènes?
-
-\- Je suis d'El Tigre.
+- Vous êtes de Boston? De Varsovie? D'Athènes?
+- Je suis d'El Tigre.
 
 2. 
-\- Actuellement, vous êtes à Oslo? À Londres? À Vienne?
-
-\- Je suis à Aix en Provence.
+- Actuellement, vous êtes à Oslo? À Londres? À Vienne?
+- Je suis à Aix en Provence.
 
 3. 
-\- Vous êtes chez vous? Au bureau? À l'université? Au lycée?
-
-\- Je suis chez moi.
+- Vous êtes chez vous? Au bureau? À l'université? Au lycée?
+- Je suis chez moi.
 
 ## P-011
 ### 1
 1. 
-\- Tu  es célibataire ou tu es marié?
-
-\- Je suis marié.
-
-\- Ta femme est française?
-
-\- Non, elle est espagnole, comme moi.
+- Tu  es célibataire ou tu es marié?
+- Je suis marié.
+- Ta femme est française?
+- Non, elle est espagnole, comme moi.
 
 2. 
-\- vous êtes espagnols! De quelle ville?
-
-\- Nous sommes de Seville.
-
-\- Mes parents aussi sont espagnols, mais nous sommes de Barcelone.
+- vous êtes espagnols! De quelle ville?
+- Nous sommes de Seville.
+- Mes parents aussi sont espagnols, mais nous sommes de Barcelone.
 
 ### 2
 1. Vous êtes seule, mademoiselle?
@@ -104,39 +83,32 @@ Paul: \- Moi, je suis de Lyon, mais je suis très souvent à Paris pour mes affa
 
 ### 3
 1. 
-\- Le professeur est là?
-
-\- Oui, il est là.
+- Le professeur est là?
+- Oui, il est là.
 
 2. 
-\- La salle est grande?
-
-\- Oui, elle est grande
+- La salle est grande?
+- Oui, elle est grande
 
 3. 
-\- Les chaises sont en bois?
-
-\- Oui, elles sont en bois.
+- Les chaises sont en bois?
+- Oui, elles sont en bois.
 
 4. 
-\- Votre livre est bleu?
-
-\- Oui, il est bleu.
+- Votre livre est bleu?
+- Oui, il est bleu.
 
 5. 
-\- Nous sommes mardi?
-
-\- Non, nous non sommes pas mardi.
+- Nous sommes mardi?
+- Non, nous non sommes pas mardi.
 
 6. 
-\- On est le 4?
-
-\- Oui, on est le 4.
+- On est le 4?
+- Oui, on est le 4.
 
 7. 
-\- Les étudiants sont en forme?
-
-\- Oui, ils sont en forme.
+- Les étudiants sont en forme?
+- Oui, ils sont en forme.
 
 ### 4
 <div style="display: flex; justify-content: space-between;">
@@ -154,26 +126,21 @@ Grosses bises! Léa
 
 ### 5
 1. 
-\- Martine et Jean sont à Aix?
-
-\- Non, ils sont à Paris.
+- Martine et Jean sont à Aix?
+- Non, ils sont à Paris.
 
 2. 
-\- Danièle est libre ou occupée aujourd'hui?
-
-\- Elle est occupée.
+- Danièle est libre ou occupée aujourd'hui?
+- Elle est occupée.
 
 3. 
-\- Martine et Jean sont chez des amis?
-
-\- Non, ils sont à l'hôtel Saint-Michel.
+- Martine et Jean sont chez des amis?
+- Non, ils sont à l'hôtel Saint-Michel.
 
 4. 
-\- Danièle est à Paris aujourd'hui?
-
-\- Non, elle est à Versailles.
+- Danièle est à Paris aujourd'hui?
+- Non, elle est à Versailles.
 
 5. 
-\- Les filles osnt au lycée ou en vacances?
-
-\- Les filles sont en vacances.
+- Les filles sont au lycée ou en vacances?
+- Les filles sont en vacances.
