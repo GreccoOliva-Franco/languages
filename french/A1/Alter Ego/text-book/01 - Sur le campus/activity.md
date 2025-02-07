@@ -77,11 +77,11 @@ Non
     - à deux personnes ou plus, dans une relation formelle ou informelle
 
 ### 5
-a) *(audio 05a)*
+a) *(audio 05-a)*
 1. Monte
 1. Descend
 
-b) *(audio 05b)*
+b) *(audio 05-b)*
 1. Question
 1. Affirmation
 1. Affirmation
@@ -89,7 +89,7 @@ b) *(audio 05b)*
 1. Question
 1. Question
 
-c) *(audio 05b)*
+c) *(audio 05-b)*
 
 d) Non
 
