@@ -7,7 +7,7 @@ Parecer
 |Pronom|ressembler|
 |-|-|
 |Je|ressemble|
-|Tu|ressemble|
+|Tu|ressembles|
 |Il/Elle|ressemble|
 |Nous|ressemblons|
 |Vous|ressemblez|
