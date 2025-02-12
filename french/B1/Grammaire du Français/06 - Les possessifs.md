@@ -11,26 +11,26 @@
 1. Mon frère est aux Bahamas
 1. Ma soeur est dentiste
 1. Mes enfants sont à la plage
-1. Ma école est fermée
+1. Mon école est fermée
 1. Mon ami Pierre est en voyage
-1. Ma amie Lola est malade
+1. Mon amie Lola est malade
 
 ### 3
 1. La Joconde est célèbre pour son sourire
 1. Apollon est célèbre pour sa beauté
 1. Woody Allen est célèbre pour son humour
 1. Mozart est célèbre pour sa musique
-1. Balzac est célèbre pour son romans
+1. Balzac est célèbre pour ses romans
 
 ### 4
 1. Je garde vos enfants *garder: mirar, vigilar*
 1. J'arrose vos plantes *arroser: regar*
-1. Je repasse votre ligne *repasser (ligne): planchar*
+1. Je repasse votre linge *repasser (linge): planchar*
 1. Je promène votre chien *promèner: pasear, caminar*
 1. Je range vos papiers *ranger: ordenar*
 
 ### 5
-Marc et Sylvie sont prêts à partir en voyage de noces: leurs places d'avion sont réservées, leurs valises sont faites. Sa arrivée à Venise est prévue pour le 15 février. Sylvie est nerveuse parce *porque* que ses cheveux sont trop longs (son coiffeur *peluquero* est malade), ses habits *ropa (nueva)* sont trop grands (despuis son régime) et sa amie Nathalie n'est pas à Paris. Elle a mal à sa tête et à son estomac, et sa anxiété est terrible. Marc lui prend son main *mano*. Il trove sa attitude un peu enfantine, mais si charmante *encantadora*...
+Marc et Sylvie sont prêts à partir en voyage de noces: leurs places d'avion sont réservées, leurs valises sont faites. Leur arrivée à Venise est prévue pour le 15 février. Sylvie est nerveuse parce que *parce que: porque* ses cheveux sont trop longs (son coiffeur *peluquero* est malade), ses habits *ropa (nueva)* sont trop grands (depuis son régime) et son amie Nathalie n'est pas à Paris. Elle a mal à la tête et à l'estomac, et son anxiété est terrible. Marc lui prend la main *mano*. Il trouve son attitude un peu enfantine, mais si *muy* charmante *encantadora*...
 
 ### 6
 1. Prête-moi ta moto, la mienne est en panne *est en panne: esta descompuesta*
