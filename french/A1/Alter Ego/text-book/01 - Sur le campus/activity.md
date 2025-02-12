@@ -35,7 +35,7 @@ a)
 b)
 1. 
 - Bonjour
-- Comment allez vous?
+- Comment allez-vous?
 - Salut
 
 1. 
@@ -130,7 +130,7 @@ d) Non
 
 ### 10
 a)
-- Les sciencies politiques
+- Les sciences politiques
 - L'économie
 - La littérature
 
@@ -144,12 +144,12 @@ Je suis GRECCO, Franco.
 Je suis vénézuélien. 
 J'ai 31 ans
 Je n'étudie pas
-Je n'ai pas de les heures libres
+Je n'ai pas d'heures libres
 
 ### S'exercer
 ### 1
 1. 
-- Bonjour monsieur, comment allex-vous?
+- Bonjour monsieur, comment allez-vous?
 - Bien, merci
 1. 
 - Bonjour, tu vas bien?
