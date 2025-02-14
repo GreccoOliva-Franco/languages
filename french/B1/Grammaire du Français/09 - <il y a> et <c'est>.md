@@ -25,7 +25,7 @@
 1. À New York, il y a un musée important: c'est le musée Guggenheim
 1. En Grèce, il y a  des trésors archéologiques: ce sont des monuments de l'époque classique
 1. En Suisse, il y a beaucoup de stations de ski: ce sont des estations très animées en hiver
-1. Sur la Siene, il y a bateaux pour les touristes: ce sont les bateaux-mouches *(?)*
+1. Sur la Seine, il y a les bateaux pour les touristes: ce sont les bateaux-mouches *(?)*
 1. Près de Paris, à Marne-la-Vallée, il y a un grand parc d'attractions: c'est Euro-Disney
 
 ### 4
