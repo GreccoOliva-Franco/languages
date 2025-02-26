@@ -3,22 +3,22 @@
 ## Page-055
 
 ### 1
-1. Un vieil monsieur a l abrbe blanche
-1. Un homme sportif a la visage carré
-1. La dame brune a des lunettes noires *?*
-1. Le gros poisson a le ventre jaune
-1. Ma belle fille a de jambes longues *jambes: piernas*
-1. Ma grosse voiture a un grand coffre
-1. Mon livre précieux a de belles illustrations
-1. Il y a douible whisky dans les deux glaçons
+1. Un vieux monsieur avec une barbe blanche
+1. Un homme sportif avec un visage carré
+1. Une dame brune avec des lunettes noires *?*
+1. Un gros poisson avec un ventre jaune
+1. Une belle fille avec des jambes longues *jambes: piernas*
+1. Une grosse voiture avec un grand coffre
+1. Un livre précieux avec de belles illustrations
+1. Un double whisky avec deux glaçons
 1. Un bel appartement avec une petite terrasse
-1. Un bonne soirée pour mes vieux amis *?*
+1. Une bonne soirée avec mes vieux amis *?*
 
 ### 2
-1. Cet innmeuble est très vieux! Oui, c'est un vieil innmeuble
+1. Cet immeuble est très vieux! Oui, c'est un vieil immeuble
 1. Cet acteur est très beau! Oui, c'est un bel acteur
 1. Cet ordinateur est nouveau? Oui, c'est un nouvel ordinateur
-1. Cet avion est très veiux! Oui, c'est un vieil avion
+1. Cet avion est très vieux! Oui, c'est un vieil avion
 
 ### 3
 1. Le premier jour => Les deux premiers jours
@@ -28,28 +28,28 @@
 
 ### 4
 1. La styliste Emmanuelle Kahn a toujours de grosses lunettes
-1. Les contes de Leo Perutz sont d'histories étranges *étranges: extrañas*
-1. Les contes de Perrault son de belles histoires
-1. Aportez-moi d'autres photos de votre famille
-1. Les vieux bistrots de Paris sont des endroits magnifiques
+1. Les contes de Leo Perutz sont des histoires étranges *étranges: extrañas*
+1. Les contes de Perrault sont de belles histoires
+1. Apportez-moi d'autres photos de votre famille
+1. Les vieux bistrots de Paris sont des endroits magnifiques *endroits: lugar*
 
 ### 5
-1. Tu préféres un vieil appartement ou un appartement moderne?
-1. Ils préférent des plats sucrés ou des plats salés?
-1. Nous allons a acheter une petite voiture ou une grosse voiture?
-1. Je préfére des coleurs clairs aux coleurs sombres
+1. Tu préfères un vieil appartement ou un appartement moderne?
+1. Ils préfèrent des plats sucrés ou des plats salés?
+1. Nous allons acheter une petite voiture ou une grosse voiture?
+1. Je préfère les couleurs claires aux couleurs sombres
 
 ## Page-057
 
 ### 1
-1. Dustin Hoffman est un petit homme, mais il est un grand acteaur
-1. Alexandre est un enfant agité, mais il est un écolier étudieux
-1. Madame Claude est une femme seule, mais elle est une voisine bruyante
+1. Dustin Hoffman est un petit homme, mais c'est un grand acteaur
+1. Alexandre est un enfant agité, mais c'est un écolier étudieux
+1. Madame Claude est une femme seule, mais c'est une voisine bruyante
 1. Les ordinateurs portables sont appareils pratiques, mais ce sont des objects chers
-1. Le mari de Nadia est un mari mauvais, mais il est un bon sculpteur
-1. Kitti est un belle femme et une actrice mauvaise
-1. Monsieur Barlou est un maire respecté, mais il est ancien voyou
-1. Monsieur Hire est un voisin réservé et un curieux personnage
+1. Le mari de Nadia est un mari mauvais, mais c'est un bon sculpteur
+1. Kitti est un belle femme et c'est une mauvaise actrice 
+1. Monsieur Barlou est un maire respecté, mais c'est ancien voyou
+1. Monsieur Hire est un voisin réservé et c'est un curieux personnage 
 
 ### 2
 1. Je dois vous donner mon nouveau número de téléphone
