@@ -115,7 +115,7 @@ Je parle / Nous parlons
     - européen - européenne
     - asiatique - asiatique
 
-### 6
+### 6 *(video 01)*
 1. *(audio 022)*
     - David (2)
     - Fiorello (1)
